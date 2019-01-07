@@ -1,8 +1,9 @@
 # 泡泡争霸
 
+<div>
 <img width=200 height=400 src="https://github.com/kodking2025/paopao/blob/master/IMG_0357.PNG"/>
 <img width=200 height=400 src="https://github.com/kodking2025/paopao/blob/master/IMG_0359.PNG"/>
-
+</div>
 游戏介绍:
     
     由当前泡泡出发，经过若干个相邻泡泡，存在可连到顶端的通路，则认为该泡泡具有挂点，不会下坠。当泡泡失去挂点则下坠。
