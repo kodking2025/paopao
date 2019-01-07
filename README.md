@@ -1,7 +1,7 @@
 # 泡泡争霸
 
 <img width=200 height=400 src="https://github.com/kodking2025/paopao/blob/master/IMG_0357.PNG"/>
-<img src="https://github.com/kodking2025/paopao/blob/master/IMG_0359.PNG"/>
+<img width=200 height=400 src="https://github.com/kodking2025/paopao/blob/master/IMG_0359.PNG"/>
 
 游戏介绍:
     
