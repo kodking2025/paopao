@@ -1,8 +1,8 @@
 # 泡泡争霸
 
 <div>
-<img width:'200' height:'360' src="https://github.com/kodking2025/paopao/blob/master/IMG_0357.PNG" />      
-<img width:'200' height:'360' src="https://github.com/kodking2025/paopao/blob/master/IMG_0359.PNG" />
+<img width='300' src="https://github.com/kodking2025/paopao/blob/master/IMG_0357.PNG" />      
+<img width='300' height:'360' src="https://github.com/kodking2025/paopao/blob/master/IMG_0359.PNG" />
 </div>
 
 
